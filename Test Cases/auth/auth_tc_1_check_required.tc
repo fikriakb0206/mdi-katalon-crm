@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>auth_tc_1_check_required</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95999a93-fa78-4dcf-99a3-20d215adf57e</testCaseGuid>
+</TestCaseEntity>

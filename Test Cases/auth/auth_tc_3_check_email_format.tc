@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>auth_tc_3_check_email_format</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf9ea666-9ff0-4c65-b3c5-329d3cd75f94</testCaseGuid>
+</TestCaseEntity>
