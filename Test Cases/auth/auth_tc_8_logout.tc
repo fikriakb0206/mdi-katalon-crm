@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>auth_tc_8_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99f5b3f0-6fac-4494-8b76-28b8b208bacf</testCaseGuid>
+</TestCaseEntity>
