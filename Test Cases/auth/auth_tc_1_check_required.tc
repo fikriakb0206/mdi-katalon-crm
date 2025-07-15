@@ -6,4 +6,17 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>95999a93-fa78-4dcf-99a3-20d215adf57e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef12d035-fe9f-4fde-8b83-9a329d2c5ebc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://crm.sistemsatu.my.id/login'</defaultValue>
+      <description></description>
+      <id>ef12d035-fe9f-4fde-8b83-9a329d2c5ebc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
 </TestCaseEntity>

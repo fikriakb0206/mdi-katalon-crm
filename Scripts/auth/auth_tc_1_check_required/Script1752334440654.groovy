@@ -17,3 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl(url)
+
+WebUI.click(findTestObject('Object Repository/Login/Page_Login  PT Pandu Equator Prima/btn_Sign_In'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Login  PT Pandu Equator Prima/danger_required/div_email_is_required'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Login  PT Pandu Equator Prima/danger_required/div_password_is_required'), 0)
+
+WebUI.closeBrowser()
+
